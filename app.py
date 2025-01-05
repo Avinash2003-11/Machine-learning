@@ -1,5 +1,5 @@
 import pandas as pd
-
+from datetime import datetime
 data = {
     'Name': ['Alice', 'Bob', 'Charlie'],
     'Age': [25, 30, 35],
@@ -15,5 +15,6 @@ print(df)
 df.head()
 print(df)
 
-from datetime import datetime
-datetime.now()
+
+today_date = datetime.now()
+print(today_date)
