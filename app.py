@@ -14,3 +14,6 @@ print(df)
 
 df.head()
 print(df)
+
+from datetime import datetime
+datetime.now()
