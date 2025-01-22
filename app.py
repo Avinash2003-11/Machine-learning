@@ -18,4 +18,5 @@ print(df)
 
 today_date = datetime.now()
 
+df = pd.read_csv("./data/superstore.csv")
 
