@@ -1,0 +1,2012 @@
+Age,Income,Product_Category,Purchased
+36,64308.0,Electronics,0
+48,31920.0,Clothing,0
+34,84361.0,Home Appliances,0
+68,57081.0,Home Appliances,0
+42,,Electronics,0
+44,44204.0,Electronics,0
+18,74068.0,Home Appliances,0
+24,103456.0,Home Appliances,0
+28,28120.0,Electronics,0
+30,91725.0,Clothing,0
+57,132133.0,Home Appliances,0
+34,38781.0,Electronics,1
+50,62255.0,Home Appliances,0
+50,31596.0,Home Appliances,0
+24,,Clothing,0
+50,121206.0,Electronics,0
+45,33587.0,Clothing,0
+60,140729.0,Home Appliances,0
+58,21214.0,Home Appliances,0
+53,,Clothing,0
+40,115798.0,Electronics,0
+58,50013.0,Electronics,0
+19,23841.0,Clothing,0
+30,43246.0,Home Appliances,0
+58,36997.0,Electronics,0
+56,143867.0,Electronics,1
+32,146924.0,Electronics,0
+52,106760.0,Electronics,0
+47,123193.0,Clothing,0
+46,98592.0,Electronics,0
+36,56051.0,Home Appliances,0
+57,101578.0,Clothing,0
+49,58893.0,Home Appliances,0
+53,123577.0,Home Appliances,0
+44,48767.0,Home Appliances,0
+24,144288.0,Home Appliances,0
+59,122840.0,nan,0
+66,37106.0,Home Appliances,0
+64,129599.0,Home Appliances,0
+43,73365.0,Home Appliances,0
+58,78597.0,Home Appliances,0
+50,136968.0,Home Appliances,0
+62,80562.0,Electronics,0
+38,147378.0,Home Appliances,0
+43,86266.0,Electronics,0
+59,130231.0,Clothing,0
+39,113167.0,Clothing,0
+35,26163.0,Clothing,0
+43,69997.0,Home Appliances,0
+28,101490.0,Home Appliances,1
+68,35739.0,Electronics,1
+34,95024.0,Home Appliances,0
+56,80727.0,Clothing,0
+29,64134.0,Clothing,0
+46,101455.0,Home Appliances,0
+52,73871.0,Clothing,0
+61,84912.0,Electronics,0
+22,93844.0,Home Appliances,0
+24,110945.0,Clothing,0
+41,40491.0,Electronics,1
+34,29004.0,Home Appliances,0
+47,54831.0,Electronics,0
+28,106839.0,Home Appliances,0
+59,136737.0,Clothing,0
+52,134300.0,Clothing,0
+61,21245.0,Home Appliances,0
+33,55285.0,nan,0
+61,110360.0,Home Appliances,0
+50,56923.0,Clothing,0
+50,82142.0,Home Appliances,0
+68,149157.0,Home Appliances,0
+52,55079.0,Electronics,0
+46,133415.0,Home Appliances,0
+37,94442.0,nan,0
+40,52175.0,Electronics,0
+56,62120.0,Electronics,0
+54,111654.0,Home Appliances,0
+40,117896.0,Electronics,0
+52,111951.0,Electronics,0
+25,143743.0,Home Appliances,0
+43,45009.0,Home Appliances,0
+20,93150.0,Clothing,0
+24,133341.0,Clothing,0
+58,56533.0,Home Appliances,0
+51,122652.0,Home Appliances,0
+18,115752.0,Home Appliances,0
+69,96762.0,Electronics,0
+18,99478.0,Electronics,0
+24,29862.0,Clothing,0
+27,125789.0,Home Appliances,0
+60,75415.0,Clothing,0
+50,122236.0,Electronics,1
+47,117077.0,Electronics,0
+61,28078.0,Home Appliances,0
+30,147365.0,Electronics,0
+54,101304.0,Clothing,0
+34,118204.0,Home Appliances,0
+61,33880.0,Electronics,0
+38,111087.0,Home Appliances,0
+62,140456.0,Clothing,0
+57,99062.0,Clothing,1
+41,,Electronics,0
+36,29797.0,Home Appliances,0
+64,63271.0,Home Appliances,0
+66,113103.0,Home Appliances,1
+61,36347.0,Clothing,0
+66,140288.0,Clothing,0
+34,93973.0,Electronics,0
+19,108425.0,Clothing,0
+47,71818.0,Electronics,0
+25,59159.0,Home Appliances,0
+24,43580.0,Home Appliances,0
+65,31826.0,Clothing,0
+49,98712.0,Electronics,0
+26,30807.0,Home Appliances,0
+60,130205.0,Electronics,1
+24,66008.0,Home Appliances,0
+29,41326.0,Home Appliances,0
+63,87005.0,Home Appliances,0
+56,90375.0,Clothing,0
+37,35295.0,Home Appliances,0
+50,122236.0,Electronics,1
+64,59807.0,nan,0
+56,26984.0,Clothing,0
+65,59023.0,Clothing,0
+52,97007.0,Clothing,1
+67,128287.0,Home Appliances,0
+48,80817.0,Clothing,0
+31,59842.0,Clothing,0
+57,129824.0,Electronics,0
+63,39465.0,Electronics,0
+33,102020.0,Home Appliances,0
+23,129525.0,Clothing,0
+32,78144.0,Electronics,0
+48,29596.0,Clothing,0
+33,76851.0,Home Appliances,1
+62,,Home Appliances,0
+30,133693.0,Home Appliances,1
+58,144859.0,Clothing,0
+26,113778.0,Home Appliances,0
+59,43930.0,Home Appliances,0
+62,45557.0,Clothing,0
+25,46639.0,Home Appliances,0
+26,48525.0,Home Appliances,0
+39,119242.0,Electronics,0
+51,89831.0,Clothing,0
+27,33463.0,Clothing,0
+35,45594.0,nan,0
+23,51770.0,Clothing,0
+58,110896.0,Electronics,0
+41,22179.0,Electronics,0
+40,53910.0,Home Appliances,0
+19,89767.0,Electronics,0
+59,59941.0,Clothing,1
+25,38170.0,nan,0
+33,137281.0,Clothing,0
+69,127447.0,Clothing,0
+38,120553.0,Electronics,0
+33,31805.0,Electronics,0
+38,115067.0,Clothing,0
+67,106785.0,Electronics,1
+41,56845.0,Clothing,0
+32,76531.0,Clothing,0
+37,109300.0,Electronics,0
+42,139937.0,Clothing,0
+40,77888.0,Electronics,0
+22,68127.0,Clothing,0
+34,145806.0,Electronics,0
+57,119468.0,Home Appliances,0
+33,109340.0,Clothing,0
+59,81836.0,Home Appliances,0
+19,61964.0,Clothing,0
+39,117557.0,Electronics,0
+41,133793.0,nan,0
+57,145332.0,Electronics,0
+51,101015.0,Electronics,1
+52,135308.0,Electronics,0
+63,31419.0,Clothing,0
+20,24960.0,Clothing,0
+45,21701.0,Clothing,0
+24,79316.0,Home Appliances,0
+36,46783.0,Clothing,0
+54,64645.0,Electronics,0
+58,62548.0,Clothing,0
+29,72802.0,Clothing,0
+68,100205.0,Home Appliances,0
+35,20528.0,Home Appliances,0
+43,36427.0,Clothing,0
+53,94266.0,Electronics,0
+22,130507.0,Home Appliances,0
+60,67842.0,Clothing,0
+46,45198.0,Clothing,0
+34,84385.0,Home Appliances,1
+31,63481.0,nan,1
+36,52274.0,Clothing,0
+48,132035.0,Home Appliances,0
+25,137270.0,Clothing,0
+41,,Clothing,0
+45,94779.0,Clothing,0
+36,106135.0,nan,0
+33,90592.0,Home Appliances,0
+48,82040.0,nan,0
+55,61366.0,Electronics,0
+69,66665.0,Electronics,0
+39,49986.0,Electronics,0
+52,48906.0,Electronics,0
+47,83769.0,Home Appliances,0
+23,93551.0,Electronics,0
+32,62460.0,Electronics,0
+33,20567.0,Clothing,0
+48,34497.0,Clothing,0
+48,37182.0,Clothing,0
+23,20048.0,Clothing,0
+45,141543.0,Clothing,0
+50,42185.0,Clothing,0
+55,115842.0,Clothing,0
+30,133693.0,Home Appliances,1
+34,137327.0,Electronics,0
+27,99400.0,Home Appliances,0
+64,43382.0,Home Appliances,0
+53,137804.0,Electronics,0
+20,,Electronics,0
+50,110099.0,Home Appliances,0
+69,111715.0,Electronics,0
+37,23439.0,Clothing,1
+46,71550.0,nan,0
+48,99082.0,Home Appliances,1
+41,85077.0,Electronics,0
+36,144913.0,nan,0
+32,53298.0,Electronics,0
+38,131126.0,Electronics,0
+56,141367.0,Electronics,0
+19,106655.0,Electronics,0
+19,108713.0,Electronics,0
+69,63371.0,Home Appliances,0
+69,139398.0,Clothing,0
+39,81901.0,Clothing,0
+62,49894.0,Home Appliances,0
+59,45957.0,Electronics,0
+63,,Home Appliances,1
+50,110444.0,Electronics,0
+41,148256.0,Home Appliances,0
+65,119704.0,Home Appliances,0
+46,76964.0,Electronics,0
+68,112321.0,Clothing,0
+18,53071.0,Electronics,0
+49,82028.0,Clothing,0
+29,35290.0,Home Appliances,0
+36,44016.0,Home Appliances,1
+64,135518.0,Electronics,1
+47,95948.0,Clothing,0
+50,47209.0,Electronics,0
+34,47452.0,Home Appliances,0
+36,119187.0,Clothing,0
+39,34325.0,Electronics,0
+63,80162.0,nan,0
+23,123370.0,nan,0
+37,47584.0,Clothing,0
+39,132684.0,Home Appliances,0
+50,67109.0,Clothing,0
+55,54840.0,Home Appliances,0
+59,148391.0,Electronics,0
+38,52624.0,Clothing,0
+34,82513.0,Home Appliances,0
+38,25913.0,nan,0
+20,26047.0,Home Appliances,0
+62,50868.0,nan,0
+30,69695.0,Clothing,0
+46,,Home Appliances,0
+60,60438.0,Electronics,0
+19,71928.0,Home Appliances,1
+34,114859.0,Electronics,0
+55,,Clothing,0
+33,,Electronics,0
+40,69323.0,Home Appliances,0
+58,66798.0,Electronics,0
+50,63246.0,Home Appliances,0
+43,53719.0,Home Appliances,0
+27,72107.0,Electronics,1
+43,41446.0,Electronics,0
+36,132321.0,Home Appliances,0
+67,57132.0,Electronics,0
+58,147182.0,Clothing,0
+61,128563.0,Clothing,0
+20,68487.0,Electronics,1
+61,127761.0,Clothing,0
+37,,Electronics,0
+44,120760.0,Clothing,0
+22,129743.0,Electronics,0
+33,102533.0,Home Appliances,0
+18,97338.0,Electronics,1
+26,118035.0,Home Appliances,0
+54,98210.0,Electronics,0
+32,124697.0,Home Appliances,0
+63,137734.0,Home Appliances,0
+62,68432.0,Clothing,0
+46,119143.0,Electronics,0
+62,,Home Appliances,1
+40,46819.0,Home Appliances,0
+30,104263.0,Home Appliances,1
+28,90192.0,Home Appliances,0
+54,67003.0,Clothing,0
+62,30681.0,Home Appliances,0
+65,68348.0,Clothing,0
+30,22019.0,Clothing,0
+57,101588.0,Electronics,0
+41,70708.0,Electronics,1
+67,129723.0,Home Appliances,0
+55,59846.0,Electronics,0
+30,35141.0,Electronics,0
+67,41071.0,Electronics,0
+33,117285.0,Electronics,0
+36,93567.0,Home Appliances,0
+49,60642.0,Home Appliances,0
+32,122466.0,Clothing,0
+34,148344.0,Clothing,0
+46,56282.0,Home Appliances,0
+50,78414.0,nan,0
+25,130573.0,Home Appliances,0
+59,133004.0,Clothing,0
+56,46467.0,Home Appliances,0
+68,65499.0,Clothing,0
+22,,Clothing,0
+46,48287.0,Clothing,0
+69,145309.0,Clothing,0
+62,,Home Appliances,0
+34,63372.0,Clothing,0
+59,38105.0,Home Appliances,0
+31,32300.0,Clothing,0
+53,54980.0,Home Appliances,1
+50,29471.0,Home Appliances,0
+63,51126.0,Clothing,1
+65,84075.0,Clothing,0
+21,129963.0,Home Appliances,0
+44,122063.0,Home Appliances,0
+46,89072.0,Home Appliances,0
+21,36206.0,Home Appliances,0
+58,,Electronics,0
+58,130013.0,Clothing,0
+21,35977.0,Home Appliances,0
+48,,Electronics,0
+22,119855.0,Home Appliances,0
+66,83365.0,Home Appliances,0
+52,58057.0,Electronics,0
+54,115864.0,Clothing,0
+39,92298.0,Electronics,0
+33,23065.0,Electronics,0
+46,38040.0,Clothing,0
+41,61723.0,Electronics,0
+21,66099.0,Electronics,0
+43,57594.0,Home Appliances,0
+33,60148.0,Home Appliances,0
+49,89445.0,Clothing,1
+66,28507.0,Clothing,0
+30,76238.0,Home Appliances,0
+20,138915.0,Clothing,0
+56,147925.0,Electronics,0
+24,112510.0,Clothing,0
+18,52899.0,nan,0
+23,149851.0,Electronics,0
+25,114884.0,Clothing,0
+68,52926.0,Clothing,0
+53,116172.0,Home Appliances,0
+42,85049.0,Home Appliances,0
+67,138943.0,Clothing,0
+21,73609.0,Home Appliances,0
+19,77803.0,Clothing,0
+50,92356.0,Home Appliances,0
+40,114990.0,Electronics,0
+50,27432.0,nan,0
+46,83226.0,Electronics,0
+32,137363.0,Clothing,0
+38,92302.0,Electronics,0
+61,113993.0,Electronics,0
+66,53642.0,Clothing,0
+27,58247.0,Home Appliances,0
+50,77748.0,Electronics,0
+43,135018.0,Home Appliances,0
+23,117805.0,Clothing,0
+42,130870.0,Electronics,0
+36,84033.0,Home Appliances,0
+53,70391.0,Clothing,0
+58,,Clothing,0
+52,48214.0,Home Appliances,0
+58,113409.0,Clothing,0
+64,67037.0,Home Appliances,0
+41,135503.0,Electronics,0
+55,130190.0,Clothing,0
+63,31881.0,Home Appliances,0
+32,123517.0,Home Appliances,0
+33,87913.0,Clothing,0
+20,92571.0,Clothing,0
+52,97007.0,Clothing,1
+34,23188.0,Home Appliances,0
+33,,Electronics,0
+61,65215.0,Electronics,0
+31,74567.0,Home Appliances,0
+20,119058.0,Electronics,0
+50,56572.0,Electronics,0
+28,69222.0,Home Appliances,0
+57,149156.0,Home Appliances,0
+32,42187.0,Electronics,0
+49,93757.0,Clothing,0
+47,143852.0,Clothing,0
+19,107638.0,Electronics,0
+26,94469.0,Clothing,1
+58,37563.0,Home Appliances,0
+39,,Clothing,0
+29,,Clothing,0
+51,,Electronics,0
+23,40102.0,Home Appliances,0
+41,38704.0,Electronics,0
+28,102324.0,Electronics,0
+33,59426.0,Electronics,0
+56,70290.0,Home Appliances,0
+63,45816.0,Home Appliances,0
+64,45298.0,Home Appliances,0
+35,138198.0,Electronics,0
+36,30336.0,Clothing,0
+53,74645.0,Electronics,0
+58,27470.0,Electronics,0
+62,52875.0,Home Appliances,0
+60,72328.0,Clothing,0
+48,64498.0,Home Appliances,0
+68,144904.0,Clothing,1
+27,108678.0,Home Appliances,0
+36,59743.0,Clothing,0
+62,143088.0,Clothing,1
+43,,Clothing,0
+33,77819.0,Clothing,0
+42,83472.0,Clothing,0
+53,143183.0,Clothing,1
+64,132117.0,Clothing,0
+43,77183.0,Electronics,0
+31,135866.0,Clothing,0
+64,142323.0,Home Appliances,0
+33,146794.0,Clothing,0
+38,22708.0,Clothing,0
+33,112602.0,Electronics,0
+25,120672.0,Electronics,0
+20,95287.0,Home Appliances,1
+69,133440.0,Home Appliances,0
+36,77944.0,nan,0
+35,68692.0,Electronics,0
+61,75665.0,Home Appliances,0
+39,40229.0,Electronics,0
+38,84450.0,Electronics,0
+30,95017.0,Electronics,0
+25,149394.0,Clothing,0
+29,46909.0,Electronics,0
+32,36876.0,Home Appliances,0
+42,116634.0,Electronics,0
+33,131302.0,Electronics,0
+33,76851.0,Home Appliances,1
+23,64387.0,Home Appliances,0
+29,119721.0,Home Appliances,0
+65,37675.0,Electronics,0
+59,142906.0,Home Appliances,0
+58,108495.0,Electronics,0
+18,97338.0,Electronics,1
+68,43016.0,Clothing,0
+55,140321.0,Home Appliances,0
+51,104326.0,Electronics,0
+67,42658.0,Clothing,1
+40,40504.0,Home Appliances,0
+50,91765.0,Home Appliances,0
+50,26630.0,Electronics,0
+20,,Electronics,0
+64,27140.0,Home Appliances,0
+33,46997.0,Electronics,0
+21,54875.0,Home Appliances,0
+21,130034.0,Home Appliances,0
+28,25487.0,Electronics,0
+67,68217.0,Electronics,0
+66,20557.0,Electronics,0
+30,79405.0,Electronics,0
+39,36259.0,Electronics,0
+38,98948.0,Home Appliances,0
+35,146252.0,Electronics,0
+38,24597.0,Electronics,0
+58,138362.0,Clothing,1
+56,80635.0,Electronics,0
+57,99120.0,Home Appliances,0
+22,29465.0,Electronics,0
+54,133843.0,Electronics,0
+31,118941.0,Home Appliances,0
+57,98572.0,Clothing,0
+30,78715.0,Clothing,0
+42,147236.0,Home Appliances,0
+19,,Home Appliances,0
+43,135153.0,Electronics,0
+27,,Home Appliances,0
+30,,Electronics,0
+23,22460.0,Clothing,0
+45,41183.0,Electronics,0
+19,126397.0,Home Appliances,0
+33,,Clothing,0
+57,77153.0,Electronics,1
+20,50226.0,Home Appliances,0
+67,84523.0,Electronics,0
+49,89445.0,Clothing,1
+43,42161.0,Home Appliances,0
+35,105982.0,Home Appliances,0
+57,94248.0,Clothing,0
+66,44686.0,Clothing,0
+61,,Electronics,0
+59,143963.0,Home Appliances,0
+55,48180.0,Clothing,0
+57,68582.0,Home Appliances,0
+32,33782.0,Electronics,1
+68,66246.0,Home Appliances,0
+47,32204.0,Home Appliances,0
+46,125153.0,Electronics,0
+35,49739.0,Home Appliances,0
+43,98413.0,Home Appliances,0
+25,134780.0,Home Appliances,0
+64,135518.0,Electronics,1
+67,88811.0,nan,0
+38,115967.0,Electronics,0
+51,130049.0,Clothing,0
+61,71921.0,Clothing,0
+63,113708.0,Home Appliances,0
+65,68621.0,Home Appliances,0
+51,72104.0,Electronics,0
+31,131789.0,Home Appliances,0
+41,30529.0,Clothing,0
+30,148404.0,Home Appliances,0
+47,133831.0,Clothing,0
+62,34456.0,Home Appliances,0
+58,99810.0,Clothing,0
+21,93432.0,Electronics,1
+34,47621.0,Home Appliances,0
+59,106569.0,Home Appliances,0
+46,96054.0,Home Appliances,0
+29,26057.0,Home Appliances,0
+54,120587.0,Electronics,0
+52,84236.0,Home Appliances,0
+34,116346.0,Electronics,0
+45,101196.0,Home Appliances,0
+31,,Clothing,0
+51,33731.0,Clothing,0
+37,50104.0,Clothing,0
+38,136251.0,Electronics,0
+61,76271.0,Home Appliances,0
+38,86627.0,nan,0
+33,92115.0,Home Appliances,0
+63,120871.0,Home Appliances,0
+46,69713.0,Home Appliances,1
+66,108406.0,Clothing,0
+22,124922.0,Electronics,0
+19,58745.0,Electronics,0
+51,37256.0,Electronics,0
+60,130205.0,Electronics,1
+53,104579.0,Clothing,0
+50,86095.0,Electronics,0
+64,95481.0,Home Appliances,0
+35,25703.0,Home Appliances,0
+60,86351.0,Clothing,0
+39,77492.0,Home Appliances,0
+46,109682.0,Electronics,0
+50,,Clothing,0
+58,135088.0,Clothing,0
+30,91158.0,Clothing,0
+69,137556.0,Home Appliances,1
+40,119173.0,Clothing,0
+64,141266.0,Clothing,0
+46,69713.0,Home Appliances,1
+40,95166.0,Electronics,0
+51,84973.0,Clothing,0
+43,79258.0,Electronics,0
+43,142330.0,Home Appliances,0
+60,27232.0,Clothing,0
+48,39323.0,Home Appliances,0
+42,67445.0,Electronics,0
+52,128806.0,Electronics,0
+50,135477.0,Home Appliances,0
+51,142058.0,nan,0
+34,26336.0,Clothing,0
+26,117697.0,Home Appliances,0
+27,,Electronics,0
+68,82223.0,Clothing,0
+27,62595.0,Electronics,1
+51,42485.0,nan,0
+42,90560.0,Home Appliances,0
+48,107938.0,Clothing,0
+19,130407.0,Electronics,0
+30,93839.0,Home Appliances,0
+33,21652.0,Home Appliances,0
+21,88449.0,Clothing,0
+33,76851.0,Home Appliances,1
+26,40927.0,Home Appliances,0
+56,107345.0,Clothing,0
+57,133711.0,Clothing,0
+33,66553.0,Clothing,0
+28,,Clothing,0
+68,132099.0,Electronics,0
+25,67046.0,Clothing,0
+60,66359.0,Home Appliances,0
+41,144726.0,Clothing,0
+33,92105.0,Electronics,0
+60,86483.0,Clothing,0
+63,27274.0,Electronics,0
+24,85464.0,Home Appliances,0
+31,53758.0,Home Appliances,0
+20,92534.0,Electronics,0
+20,36363.0,Electronics,0
+25,124710.0,Home Appliances,1
+20,94420.0,Home Appliances,0
+24,134217.0,Clothing,0
+64,26553.0,Electronics,0
+43,102501.0,Electronics,0
+38,107331.0,Clothing,0
+57,86033.0,Clothing,0
+35,65667.0,Home Appliances,0
+62,45143.0,Clothing,0
+32,129572.0,Electronics,0
+22,92413.0,Clothing,1
+31,103008.0,Home Appliances,0
+40,104743.0,Clothing,0
+47,121131.0,Home Appliances,0
+33,48391.0,Home Appliances,0
+31,124451.0,Home Appliances,0
+62,143088.0,Clothing,1
+21,73214.0,Clothing,0
+44,58311.0,Electronics,0
+19,78499.0,Electronics,0
+55,142166.0,Home Appliances,0
+37,92828.0,Electronics,0
+56,,Home Appliances,1
+57,110045.0,Electronics,1
+36,75609.0,Electronics,1
+60,129733.0,Electronics,0
+32,144320.0,Clothing,0
+43,35250.0,Home Appliances,0
+22,44028.0,Clothing,1
+49,57085.0,Clothing,0
+19,62017.0,Home Appliances,0
+63,64331.0,Home Appliances,0
+18,67700.0,Home Appliances,0
+68,35739.0,Electronics,1
+67,40293.0,Electronics,0
+64,97878.0,Clothing,0
+26,111205.0,Electronics,0
+26,75076.0,Clothing,0
+21,95010.0,Electronics,0
+54,132909.0,Electronics,0
+61,29395.0,Clothing,0
+44,123591.0,Electronics,1
+35,144459.0,Clothing,0
+50,127417.0,Clothing,0
+34,76947.0,Home Appliances,0
+65,81344.0,Electronics,0
+67,98563.0,Clothing,0
+53,48190.0,Home Appliances,0
+67,59470.0,Home Appliances,0
+22,125474.0,Clothing,0
+48,54607.0,Electronics,0
+34,50314.0,Home Appliances,0
+45,88147.0,Home Appliances,0
+50,84265.0,Electronics,0
+67,135042.0,Clothing,0
+35,44240.0,Home Appliances,0
+54,95268.0,Clothing,0
+33,,nan,0
+44,76815.0,Home Appliances,0
+21,93432.0,Electronics,1
+44,34859.0,Clothing,0
+41,93501.0,Home Appliances,0
+56,,Home Appliances,1
+61,110005.0,Clothing,0
+44,123591.0,Electronics,1
+42,35932.0,Electronics,0
+37,85587.0,Home Appliances,0
+40,38996.0,Home Appliances,0
+29,51481.0,Clothing,0
+68,77757.0,Clothing,0
+18,45037.0,Electronics,0
+50,48460.0,Home Appliances,0
+49,128875.0,Electronics,0
+61,108666.0,Home Appliances,0
+62,98672.0,Home Appliances,0
+30,148853.0,Clothing,0
+54,95726.0,Clothing,1
+27,106130.0,nan,0
+52,89532.0,Home Appliances,0
+20,68487.0,Electronics,1
+53,97188.0,Electronics,1
+18,36254.0,Clothing,0
+61,58501.0,Home Appliances,0
+33,68791.0,Electronics,0
+58,90910.0,Home Appliances,0
+22,105015.0,Clothing,0
+50,81877.0,Home Appliances,0
+26,45102.0,Home Appliances,0
+54,95863.0,Electronics,0
+35,48114.0,Clothing,1
+49,80522.0,Clothing,0
+62,137343.0,Electronics,0
+29,93903.0,Electronics,0
+54,112019.0,Home Appliances,0
+54,133461.0,Home Appliances,1
+23,114655.0,Clothing,0
+60,,Clothing,0
+61,74921.0,Home Appliances,0
+57,99062.0,Clothing,1
+35,78445.0,Clothing,0
+42,107695.0,Clothing,1
+54,25806.0,Electronics,0
+69,,Electronics,0
+18,113330.0,Home Appliances,0
+52,83079.0,Electronics,0
+30,25674.0,Clothing,0
+48,110331.0,Home Appliances,0
+27,135209.0,Clothing,0
+60,51704.0,Home Appliances,0
+42,133829.0,Home Appliances,0
+61,21816.0,Home Appliances,0
+32,115711.0,nan,0
+31,137355.0,Clothing,0
+68,22389.0,Home Appliances,0
+45,47268.0,Electronics,0
+56,83087.0,Electronics,0
+20,100792.0,Home Appliances,0
+33,105848.0,Clothing,0
+68,48173.0,Electronics,0
+58,137969.0,Clothing,0
+55,71030.0,nan,0
+26,134187.0,Electronics,1
+30,124741.0,Electronics,0
+58,98065.0,Home Appliances,0
+67,122979.0,Electronics,0
+45,128668.0,Clothing,0
+33,75773.0,Clothing,0
+39,35003.0,Home Appliances,0
+69,126034.0,Clothing,0
+54,105757.0,Home Appliances,0
+32,86046.0,Clothing,0
+34,68115.0,Electronics,0
+50,80695.0,nan,0
+42,103529.0,Clothing,0
+53,,Electronics,0
+47,65028.0,Clothing,0
+65,148359.0,Electronics,0
+35,61722.0,Home Appliances,0
+69,91835.0,Electronics,0
+52,130939.0,Home Appliances,0
+19,94968.0,Electronics,0
+58,90966.0,Clothing,0
+22,40719.0,Home Appliances,0
+32,110209.0,Electronics,0
+37,69167.0,Clothing,0
+59,55577.0,Electronics,0
+35,80289.0,Clothing,1
+67,42597.0,Electronics,1
+19,71928.0,Home Appliances,1
+42,89110.0,Home Appliances,0
+24,126087.0,Home Appliances,0
+64,64406.0,Electronics,0
+46,129017.0,Home Appliances,0
+23,109062.0,Home Appliances,0
+42,51094.0,Electronics,0
+60,21614.0,nan,0
+42,128585.0,Electronics,0
+24,74596.0,Clothing,0
+62,97124.0,Clothing,0
+46,83575.0,nan,0
+43,65530.0,Home Appliances,0
+62,121249.0,Electronics,0
+48,24646.0,Electronics,1
+60,23465.0,Electronics,0
+29,107081.0,Electronics,1
+19,29915.0,Electronics,0
+67,132870.0,Clothing,0
+61,109001.0,Electronics,0
+20,89072.0,Home Appliances,0
+67,101574.0,Clothing,0
+18,62145.0,Home Appliances,0
+62,143088.0,Clothing,1
+24,29032.0,Home Appliances,0
+55,125703.0,nan,0
+31,147922.0,Clothing,1
+55,109439.0,Home Appliances,0
+41,121831.0,Clothing,0
+31,,Clothing,0
+65,137373.0,Clothing,0
+39,149581.0,Clothing,0
+43,140294.0,Electronics,0
+46,39394.0,Home Appliances,0
+53,107148.0,Home Appliances,0
+46,112085.0,Home Appliances,0
+48,135996.0,Electronics,0
+48,107483.0,Clothing,0
+45,27835.0,Electronics,0
+31,140862.0,Electronics,0
+64,74933.0,Clothing,0
+51,86266.0,Home Appliances,1
+27,57997.0,Electronics,0
+18,24131.0,Home Appliances,0
+43,41424.0,Clothing,0
+50,53387.0,Home Appliances,0
+44,126283.0,Electronics,0
+46,106129.0,Clothing,0
+56,55326.0,Clothing,0
+27,144474.0,Home Appliances,0
+61,113498.0,Clothing,0
+41,22994.0,Clothing,0
+28,47676.0,Electronics,0
+26,74215.0,Clothing,0
+26,34639.0,Electronics,0
+27,115549.0,Home Appliances,0
+32,25445.0,nan,0
+21,123727.0,Home Appliances,0
+41,51346.0,Electronics,0
+63,140035.0,Electronics,0
+65,142258.0,Home Appliances,0
+31,40175.0,Electronics,0
+18,66622.0,Clothing,0
+60,93277.0,Clothing,0
+62,100722.0,Clothing,0
+68,61435.0,Home Appliances,0
+19,,Electronics,0
+49,32569.0,Electronics,0
+23,85363.0,Home Appliances,0
+21,146372.0,nan,0
+56,82820.0,Home Appliances,0
+44,68478.0,Electronics,0
+33,75797.0,Electronics,0
+27,71097.0,Electronics,0
+42,124553.0,Clothing,1
+18,109909.0,Home Appliances,0
+47,42072.0,Clothing,0
+53,135499.0,Clothing,0
+51,86266.0,Home Appliances,1
+50,53276.0,Clothing,0
+24,37861.0,Home Appliances,0
+22,92413.0,Clothing,1
+59,70912.0,Electronics,0
+49,134462.0,Electronics,0
+25,117841.0,Home Appliances,0
+24,88247.0,Clothing,0
+29,138065.0,Electronics,0
+48,128654.0,Electronics,0
+42,137225.0,nan,0
+58,,Electronics,0
+37,69954.0,Electronics,0
+27,70603.0,Electronics,0
+45,103024.0,Home Appliances,0
+36,70908.0,Home Appliances,0
+43,87764.0,Electronics,1
+39,127089.0,Electronics,0
+49,129588.0,Electronics,0
+36,133145.0,Clothing,0
+31,,Clothing,0
+36,51440.0,Clothing,0
+27,53092.0,Clothing,0
+45,111951.0,Home Appliances,0
+40,69116.0,nan,1
+56,55690.0,Clothing,1
+65,116008.0,Clothing,0
+68,113823.0,Home Appliances,0
+30,26929.0,Home Appliances,0
+68,103666.0,Home Appliances,0
+35,111006.0,Home Appliances,0
+19,28798.0,Electronics,0
+21,92790.0,Electronics,0
+41,,Clothing,0
+46,128378.0,Clothing,0
+36,23810.0,Electronics,0
+36,,Clothing,0
+47,24300.0,Electronics,0
+62,69477.0,Electronics,0
+22,25239.0,Home Appliances,0
+48,98047.0,Clothing,0
+37,48415.0,Clothing,1
+42,111189.0,Electronics,0
+36,128886.0,Home Appliances,1
+39,26021.0,Home Appliances,0
+28,37241.0,Clothing,0
+66,45976.0,Electronics,1
+27,67147.0,Electronics,0
+22,120264.0,Electronics,0
+27,44578.0,Clothing,0
+36,79254.0,Electronics,0
+26,75565.0,Home Appliances,0
+57,140428.0,Clothing,0
+55,86299.0,nan,0
+50,77865.0,Clothing,0
+59,67606.0,Clothing,0
+66,,Clothing,0
+44,65761.0,Electronics,0
+21,49782.0,Clothing,0
+60,136894.0,Clothing,1
+23,86258.0,Home Appliances,0
+28,75152.0,Electronics,0
+24,60076.0,Home Appliances,0
+18,116730.0,Electronics,0
+68,23952.0,Electronics,0
+26,65702.0,Clothing,1
+61,112098.0,Electronics,0
+64,130771.0,Clothing,0
+67,24861.0,Clothing,0
+53,59986.0,Clothing,0
+23,49764.0,Home Appliances,0
+68,37776.0,Clothing,1
+21,42099.0,Clothing,0
+20,53586.0,Home Appliances,0
+64,20443.0,Home Appliances,0
+26,28520.0,Clothing,0
+53,82636.0,Clothing,1
+30,24791.0,Clothing,0
+65,149154.0,Home Appliances,0
+53,54980.0,Home Appliances,1
+57,110045.0,Electronics,1
+40,138037.0,Clothing,0
+47,,Clothing,0
+49,,Electronics,0
+32,112561.0,Electronics,0
+36,84325.0,Clothing,1
+54,90441.0,Home Appliances,0
+42,69854.0,Home Appliances,0
+61,120500.0,Electronics,0
+47,131572.0,Home Appliances,0
+69,90507.0,Home Appliances,0
+48,38361.0,Electronics,1
+30,29759.0,Electronics,0
+34,20255.0,Home Appliances,1
+27,20260.0,Electronics,0
+65,144766.0,Electronics,0
+62,132468.0,Home Appliances,0
+54,53525.0,Electronics,0
+25,33769.0,Home Appliances,0
+52,81923.0,Clothing,1
+30,41818.0,Clothing,0
+46,121746.0,Home Appliances,0
+33,53289.0,Home Appliances,0
+54,86151.0,Home Appliances,1
+38,60647.0,Home Appliances,0
+60,131706.0,Electronics,0
+59,99322.0,Electronics,0
+26,115791.0,Clothing,1
+34,106818.0,Clothing,0
+67,,Electronics,0
+31,149502.0,Electronics,0
+22,75808.0,Clothing,0
+37,76627.0,Clothing,0
+37,29470.0,Home Appliances,0
+25,71458.0,Electronics,0
+60,126683.0,Home Appliances,0
+22,56978.0,Home Appliances,0
+67,42578.0,Clothing,0
+32,98348.0,Clothing,0
+65,41996.0,Home Appliances,0
+52,123835.0,Clothing,1
+25,51153.0,Electronics,0
+25,81032.0,Clothing,0
+53,41256.0,Home Appliances,0
+52,128261.0,Clothing,1
+53,39739.0,Electronics,0
+42,54433.0,Electronics,0
+49,120721.0,Home Appliances,0
+39,112202.0,Electronics,0
+44,41292.0,Clothing,0
+57,23925.0,Home Appliances,0
+65,129345.0,Electronics,0
+64,54674.0,Home Appliances,0
+41,108938.0,Electronics,0
+51,86266.0,Home Appliances,1
+18,133741.0,Clothing,0
+45,67396.0,Electronics,0
+55,73806.0,Home Appliances,0
+40,133828.0,Home Appliances,0
+64,,Clothing,0
+22,108281.0,Clothing,0
+53,91695.0,Clothing,0
+39,70355.0,Clothing,0
+39,148213.0,Electronics,0
+44,27273.0,Clothing,0
+46,50164.0,Clothing,0
+40,69116.0,nan,1
+43,64159.0,Clothing,0
+50,78150.0,Home Appliances,0
+53,97188.0,Electronics,1
+55,50666.0,Clothing,0
+28,73767.0,Home Appliances,0
+65,86126.0,Home Appliances,0
+33,38030.0,Clothing,0
+57,109461.0,Electronics,0
+53,30129.0,Clothing,0
+21,63714.0,Home Appliances,0
+35,86617.0,Home Appliances,0
+18,113575.0,Home Appliances,0
+68,49072.0,Clothing,0
+45,87696.0,Electronics,0
+57,36292.0,Clothing,0
+46,41038.0,Home Appliances,0
+47,147843.0,Electronics,0
+18,38740.0,Electronics,0
+59,108365.0,Clothing,0
+54,20306.0,Electronics,0
+68,68791.0,nan,0
+29,109407.0,Clothing,0
+46,41246.0,Electronics,0
+44,131581.0,Home Appliances,0
+60,136894.0,Clothing,1
+58,24830.0,Home Appliances,0
+37,138192.0,Clothing,0
+58,58428.0,Electronics,0
+29,41101.0,Home Appliances,0
+22,75598.0,Electronics,0
+45,63665.0,nan,0
+67,23691.0,Clothing,0
+22,,Clothing,0
+39,29415.0,Electronics,0
+26,139404.0,Electronics,0
+33,112447.0,Home Appliances,0
+46,142196.0,Home Appliances,0
+69,95569.0,Clothing,0
+50,134780.0,nan,0
+27,62595.0,Electronics,1
+69,149979.0,Electronics,0
+20,135871.0,Electronics,0
+49,127220.0,Home Appliances,0
+28,143188.0,Clothing,0
+55,90538.0,Clothing,0
+45,111221.0,Clothing,0
+60,115739.0,Clothing,0
+50,137202.0,Home Appliances,0
+46,125209.0,Clothing,0
+30,35701.0,Home Appliances,0
+37,69086.0,Electronics,0
+34,71432.0,Electronics,0
+26,21832.0,Clothing,0
+41,55892.0,Home Appliances,0
+66,64348.0,Clothing,0
+28,94283.0,Electronics,0
+21,66539.0,Home Appliances,0
+31,147922.0,Clothing,1
+25,64859.0,Electronics,0
+62,,nan,0
+38,98413.0,Electronics,0
+64,144501.0,Home Appliances,0
+23,145277.0,Clothing,0
+33,82071.0,Clothing,0
+44,31741.0,Clothing,0
+59,65987.0,Home Appliances,1
+23,143527.0,Home Appliances,0
+19,136903.0,Clothing,0
+30,140896.0,Home Appliances,0
+50,46651.0,Clothing,0
+59,30060.0,Electronics,0
+22,22369.0,Home Appliances,0
+37,41683.0,Electronics,0
+62,128282.0,Clothing,0
+48,54293.0,Electronics,0
+36,112554.0,Clothing,0
+24,79099.0,Electronics,0
+58,84186.0,Clothing,0
+23,,Clothing,0
+25,130990.0,Electronics,0
+21,115210.0,Clothing,0
+33,,Electronics,0
+27,135392.0,Home Appliances,1
+65,106916.0,Electronics,1
+65,73223.0,Electronics,0
+69,,Home Appliances,0
+24,,Electronics,0
+30,90979.0,nan,0
+25,45362.0,Home Appliances,0
+30,83146.0,Home Appliances,0
+25,123727.0,Electronics,0
+51,79940.0,Electronics,0
+25,117553.0,Electronics,1
+54,89837.0,Clothing,0
+34,40323.0,Electronics,0
+29,26805.0,Electronics,0
+55,,Clothing,0
+63,70430.0,Electronics,0
+35,70241.0,Electronics,0
+27,,Home Appliances,0
+62,103697.0,Clothing,1
+63,106274.0,Home Appliances,0
+42,54364.0,Clothing,0
+67,135594.0,Electronics,0
+29,96025.0,Clothing,0
+36,66053.0,Clothing,0
+55,102238.0,Clothing,0
+27,77207.0,Home Appliances,0
+54,78596.0,Home Appliances,0
+46,49250.0,Electronics,0
+52,,Home Appliances,0
+23,28888.0,Clothing,0
+48,81710.0,Electronics,0
+34,83042.0,Home Appliances,0
+64,27207.0,Home Appliances,0
+69,118656.0,Home Appliances,0
+66,128368.0,Home Appliances,0
+21,118112.0,Electronics,0
+64,,Electronics,0
+58,72805.0,Clothing,0
+39,74333.0,Home Appliances,0
+51,86266.0,Home Appliances,1
+21,75476.0,Electronics,0
+57,140677.0,Electronics,0
+53,107381.0,nan,0
+48,83350.0,Electronics,0
+53,62923.0,Electronics,0
+51,66947.0,Electronics,0
+57,141764.0,Home Appliances,0
+45,47956.0,Clothing,0
+18,,nan,0
+27,86202.0,Clothing,0
+43,68581.0,Clothing,0
+68,124087.0,Home Appliances,0
+33,138019.0,Clothing,0
+50,95257.0,Electronics,0
+20,81032.0,Clothing,0
+67,119430.0,Electronics,0
+56,66624.0,Home Appliances,0
+51,90258.0,Home Appliances,0
+63,71357.0,Electronics,0
+24,90009.0,Home Appliances,0
+21,141682.0,Electronics,0
+62,23535.0,Home Appliances,0
+28,103360.0,Clothing,0
+28,65440.0,nan,0
+37,43880.0,Home Appliances,0
+66,79622.0,Clothing,0
+41,37718.0,Electronics,0
+65,134280.0,Electronics,0
+35,82509.0,Clothing,0
+39,71364.0,Home Appliances,0
+41,103106.0,Home Appliances,0
+30,120257.0,nan,0
+43,53826.0,Home Appliances,0
+56,96394.0,Clothing,0
+68,38907.0,Electronics,0
+48,135192.0,Clothing,0
+60,59328.0,Home Appliances,0
+28,113449.0,Electronics,0
+24,62197.0,Home Appliances,0
+29,128500.0,Home Appliances,0
+20,135450.0,Clothing,0
+49,146011.0,Electronics,0
+49,25212.0,Home Appliances,0
+20,121770.0,Clothing,0
+36,70131.0,Electronics,0
+25,54948.0,Clothing,0
+42,30652.0,Electronics,0
+59,101556.0,Electronics,0
+53,62220.0,Electronics,0
+24,149664.0,Home Appliances,0
+20,83197.0,Electronics,1
+56,49203.0,Home Appliances,0
+41,74160.0,Home Appliances,0
+40,112645.0,Electronics,0
+49,144843.0,Electronics,0
+19,74766.0,Home Appliances,0
+62,137744.0,Electronics,0
+26,107977.0,Clothing,0
+23,36191.0,Clothing,0
+61,62485.0,Electronics,0
+62,94534.0,Home Appliances,0
+20,122908.0,Clothing,0
+54,115025.0,Clothing,0
+46,97722.0,Home Appliances,0
+39,35021.0,Electronics,0
+65,87936.0,Electronics,0
+20,68487.0,Electronics,1
+45,58311.0,Clothing,0
+59,26553.0,Electronics,0
+31,85169.0,Home Appliances,0
+22,93177.0,Electronics,0
+18,122439.0,Clothing,0
+40,148331.0,Electronics,0
+61,123533.0,Electronics,0
+36,84325.0,Clothing,1
+69,108662.0,Electronics,0
+52,46309.0,Home Appliances,0
+25,93414.0,Home Appliances,0
+33,62749.0,Electronics,0
+29,73031.0,nan,0
+30,43752.0,Clothing,0
+24,123949.0,Electronics,0
+18,76880.0,Home Appliances,0
+54,92254.0,Clothing,0
+69,46926.0,Clothing,0
+69,77346.0,Clothing,0
+24,124332.0,nan,0
+53,60724.0,Home Appliances,0
+33,58379.0,Home Appliances,0
+24,102948.0,Electronics,0
+22,28711.0,Home Appliances,0
+24,21999.0,Electronics,1
+68,145534.0,Clothing,0
+60,115740.0,Electronics,0
+68,136770.0,Home Appliances,0
+49,105239.0,Electronics,0
+22,20824.0,Clothing,0
+69,128400.0,Electronics,0
+22,129334.0,Clothing,0
+24,65211.0,Clothing,0
+68,81161.0,Home Appliances,0
+26,110810.0,Home Appliances,0
+67,108090.0,Electronics,0
+25,92743.0,Home Appliances,0
+65,78541.0,Clothing,0
+43,51457.0,Clothing,0
+43,91326.0,Clothing,0
+26,141227.0,Home Appliances,0
+35,41946.0,Electronics,0
+29,86446.0,Clothing,0
+38,69262.0,Electronics,0
+45,94092.0,Electronics,0
+69,121422.0,Home Appliances,0
+39,123275.0,Home Appliances,0
+33,40448.0,Home Appliances,0
+53,27377.0,Home Appliances,1
+36,51145.0,Electronics,0
+64,23664.0,Home Appliances,0
+67,55198.0,Home Appliances,0
+33,98004.0,nan,0
+58,57921.0,Clothing,0
+61,35025.0,Clothing,0
+20,83589.0,Clothing,0
+66,47278.0,Home Appliances,0
+26,89863.0,Home Appliances,0
+37,60750.0,Clothing,0
+27,63158.0,Clothing,0
+51,120560.0,Electronics,0
+51,,Electronics,0
+56,74816.0,Home Appliances,0
+46,121311.0,Clothing,0
+44,40561.0,nan,0
+43,80287.0,Clothing,0
+22,21919.0,nan,0
+40,21949.0,Clothing,0
+60,25608.0,Electronics,0
+47,140460.0,Electronics,1
+41,,Electronics,0
+68,110032.0,Home Appliances,0
+32,38013.0,Electronics,0
+55,133922.0,Home Appliances,0
+39,33280.0,Electronics,0
+37,45538.0,Clothing,0
+31,48783.0,Home Appliances,0
+23,69294.0,Electronics,0
+19,70460.0,Clothing,0
+36,93616.0,Home Appliances,0
+49,146177.0,Clothing,0
+25,,Electronics,0
+43,98382.0,Home Appliances,0
+47,34434.0,Electronics,0
+58,51923.0,Electronics,0
+48,87904.0,Home Appliances,0
+61,35419.0,Home Appliances,0
+60,73061.0,Clothing,0
+23,106602.0,Electronics,0
+21,89852.0,Clothing,0
+35,42796.0,Clothing,0
+40,91486.0,Clothing,0
+34,84686.0,Clothing,1
+32,139982.0,Electronics,0
+45,147335.0,nan,0
+29,20868.0,Clothing,0
+60,136894.0,Clothing,1
+63,142202.0,Electronics,0
+46,148913.0,Clothing,0
+26,132406.0,Home Appliances,0
+59,62607.0,Clothing,0
+32,146434.0,Clothing,0
+52,23420.0,Clothing,0
+40,148305.0,Electronics,0
+52,51876.0,nan,0
+52,76731.0,Clothing,0
+53,47301.0,Electronics,0
+39,103778.0,Clothing,0
+63,27394.0,Electronics,0
+32,88816.0,Home Appliances,0
+55,53746.0,Home Appliances,0
+59,43434.0,Electronics,0
+22,51912.0,Home Appliances,0
+47,76241.0,Home Appliances,0
+53,148053.0,Electronics,0
+36,62244.0,Clothing,0
+21,22459.0,Electronics,0
+24,87470.0,Home Appliances,0
+41,75031.0,Home Appliances,0
+34,84686.0,Clothing,1
+44,113287.0,nan,0
+59,146166.0,Electronics,0
+26,50540.0,Home Appliances,0
+23,122903.0,Clothing,0
+59,91160.0,Electronics,0
+52,51969.0,Electronics,0
+46,134679.0,Clothing,0
+69,82107.0,Home Appliances,0
+22,93230.0,nan,0
+56,20329.0,Clothing,0
+51,,Clothing,1
+39,93366.0,Electronics,0
+55,56534.0,Home Appliances,0
+45,86896.0,Electronics,0
+26,134187.0,Electronics,1
+21,21924.0,Clothing,0
+60,64653.0,Electronics,0
+24,127012.0,Clothing,0
+38,29695.0,nan,1
+58,135060.0,Home Appliances,0
+42,129394.0,Electronics,0
+56,76227.0,Home Appliances,0
+48,127009.0,Home Appliances,0
+66,113419.0,Home Appliances,0
+41,141079.0,Electronics,0
+56,55690.0,Clothing,1
+48,95899.0,Electronics,0
+40,130187.0,Home Appliances,0
+37,130837.0,Home Appliances,0
+68,51115.0,Clothing,0
+35,48133.0,Home Appliances,0
+28,145615.0,Clothing,0
+40,120641.0,Home Appliances,0
+67,106711.0,Clothing,0
+41,74740.0,Clothing,0
+45,104458.0,Clothing,0
+23,102970.0,Home Appliances,0
+48,61335.0,Home Appliances,0
+61,135063.0,Electronics,0
+23,76406.0,Home Appliances,0
+42,59713.0,Clothing,0
+35,77923.0,Home Appliances,0
+24,21999.0,Electronics,1
+61,66309.0,Clothing,0
+43,110481.0,Home Appliances,0
+44,123591.0,Electronics,1
+18,20944.0,Home Appliances,0
+30,76354.0,Electronics,0
+36,84814.0,Clothing,0
+46,26615.0,Clothing,0
+41,79004.0,Electronics,0
+31,141332.0,Home Appliances,0
+47,,Home Appliances,0
+53,113433.0,Home Appliances,0
+19,100268.0,Clothing,0
+63,32823.0,Home Appliances,0
+46,82509.0,Electronics,0
+24,123700.0,Electronics,0
+51,145800.0,Home Appliances,0
+47,123431.0,Electronics,0
+37,33965.0,Home Appliances,0
+25,116359.0,nan,0
+26,137492.0,Home Appliances,0
+46,99233.0,Electronics,0
+56,127157.0,Electronics,0
+42,74030.0,Clothing,0
+64,,Clothing,0
+61,86118.0,Clothing,0
+24,83822.0,Home Appliances,0
+34,140601.0,Electronics,0
+66,144724.0,Electronics,0
+42,115221.0,Home Appliances,0
+62,61011.0,Home Appliances,0
+20,146399.0,Clothing,0
+37,69684.0,nan,0
+52,31517.0,Clothing,0
+42,77732.0,nan,0
+49,90179.0,Clothing,0
+23,143297.0,Electronics,0
+38,52599.0,Electronics,0
+54,36740.0,Clothing,0
+45,73281.0,Clothing,0
+26,56355.0,Electronics,0
+57,,Electronics,1
+18,66023.0,Electronics,0
+21,89000.0,Electronics,0
+39,148019.0,Clothing,0
+30,75786.0,Home Appliances,0
+31,64989.0,Electronics,1
+56,24263.0,Home Appliances,0
+22,120932.0,nan,0
+56,106959.0,Electronics,0
+60,97088.0,Electronics,0
+40,32809.0,Electronics,0
+32,104631.0,Electronics,0
+58,111725.0,Home Appliances,0
+65,64732.0,Clothing,0
+18,77003.0,Home Appliances,0
+18,143132.0,nan,1
+23,30528.0,Home Appliances,0
+52,105669.0,Home Appliances,0
+20,36569.0,Home Appliances,0
+56,144176.0,Clothing,0
+28,20056.0,Home Appliances,0
+46,123170.0,Clothing,0
+28,29649.0,Home Appliances,0
+65,82904.0,Electronics,0
+35,141701.0,Clothing,0
+48,24646.0,Electronics,1
+20,79030.0,Clothing,0
+49,142728.0,Electronics,0
+27,62595.0,Electronics,1
+34,117272.0,Home Appliances,0
+52,38677.0,Electronics,0
+62,71626.0,Clothing,1
+62,71626.0,Clothing,1
+65,114218.0,Clothing,0
+48,116076.0,Home Appliances,0
+23,34404.0,Clothing,0
+43,90603.0,Home Appliances,0
+18,114003.0,Electronics,0
+25,30355.0,Electronics,0
+25,99012.0,Home Appliances,0
+64,142537.0,Electronics,0
+42,143538.0,Clothing,0
+24,135016.0,Electronics,0
+61,29394.0,Home Appliances,0
+59,149979.0,Home Appliances,0
+34,84385.0,Home Appliances,1
+42,78806.0,Electronics,0
+55,20908.0,Home Appliances,0
+69,70886.0,Home Appliances,0
+29,41556.0,Clothing,0
+48,24646.0,Electronics,1
+41,81920.0,Electronics,0
+59,65380.0,Clothing,0
+41,70708.0,Electronics,1
+40,24676.0,Clothing,0
+30,126153.0,Home Appliances,0
+30,33919.0,Electronics,0
+65,96816.0,Electronics,0
+30,73938.0,Electronics,0
+59,29982.0,Electronics,0
+20,23679.0,Home Appliances,0
+47,28733.0,Home Appliances,0
+22,89715.0,Clothing,0
+67,109606.0,Home Appliances,0
+18,117662.0,Clothing,1
+60,57924.0,Home Appliances,0
+39,73583.0,Home Appliances,0
+39,99782.0,Clothing,0
+34,,Clothing,0
+34,75692.0,Clothing,0
+30,108815.0,Home Appliances,0
+21,146123.0,nan,0
+60,137852.0,Home Appliances,0
+62,87439.0,Clothing,0
+31,75894.0,Clothing,0
+22,126942.0,Home Appliances,0
+49,149681.0,nan,0
+22,92969.0,Electronics,0
+34,115065.0,Clothing,0
+54,95726.0,Clothing,1
+47,64078.0,Home Appliances,0
+59,82601.0,Electronics,0
+29,42320.0,Clothing,0
+25,124429.0,Clothing,0
+64,79768.0,Clothing,0
+37,67671.0,Clothing,0
+63,,Electronics,0
+66,47915.0,Clothing,0
+19,,Clothing,0
+36,60843.0,Home Appliances,0
+27,120808.0,Home Appliances,0
+40,104196.0,Electronics,0
+23,113542.0,nan,0
+63,51126.0,Clothing,1
+19,132700.0,Electronics,0
+56,50552.0,nan,0
+44,146460.0,Clothing,0
+27,110245.0,Home Appliances,0
+35,,Electronics,0
+61,105211.0,Electronics,0
+68,76782.0,Electronics,0
+26,95060.0,Clothing,0
+60,83394.0,Clothing,0
+30,24781.0,Home Appliances,0
+39,99991.0,Home Appliances,0
+49,145088.0,Home Appliances,0
+33,29617.0,Electronics,0
+48,30985.0,Home Appliances,0
+64,128118.0,Home Appliances,0
+61,57177.0,Clothing,0
+61,120153.0,Electronics,0
+20,105615.0,Home Appliances,0
+59,38800.0,Electronics,0
+64,144786.0,Electronics,0
+49,,Clothing,0
+66,148721.0,Clothing,0
+52,107739.0,Home Appliances,0
+52,76381.0,Home Appliances,0
+60,42075.0,Electronics,0
+35,53529.0,Home Appliances,0
+28,119445.0,Electronics,1
+49,32391.0,nan,0
+55,70772.0,Clothing,0
+25,52356.0,Clothing,0
+42,28176.0,Clothing,0
+46,,Electronics,0
+23,36979.0,Home Appliances,0
+68,66105.0,Clothing,0
+47,85424.0,Clothing,0
+48,61552.0,Electronics,0
+18,90959.0,Electronics,0
+47,124509.0,Clothing,0
+28,113034.0,Clothing,0
+30,34235.0,Clothing,0
+23,53649.0,Electronics,0
+29,96719.0,Home Appliances,1
+33,145544.0,Clothing,0
+40,91596.0,Electronics,0
+34,21753.0,Clothing,0
+49,110815.0,Electronics,0
+43,73950.0,Clothing,0
+54,33470.0,Home Appliances,1
+44,92723.0,Electronics,0
+21,146630.0,Home Appliances,0
+50,40754.0,Home Appliances,0
+35,40505.0,Home Appliances,0
+46,46119.0,Clothing,0
+20,53370.0,Clothing,0
+65,47738.0,Home Appliances,0
+36,55183.0,Electronics,0
+65,113254.0,Clothing,0
+20,,Home Appliances,0
+41,105389.0,Electronics,0
+33,123187.0,Home Appliances,0
+54,22654.0,Clothing,0
+39,47425.0,Home Appliances,0
+24,142282.0,Clothing,0
+61,75030.0,Home Appliances,0
+52,100636.0,Electronics,0
+56,91942.0,Home Appliances,0
+50,126704.0,Home Appliances,0
+53,75200.0,Clothing,0
+20,136134.0,Electronics,0
+66,34849.0,Electronics,0
+63,148165.0,Clothing,0
+50,69004.0,Clothing,0
+19,21919.0,Clothing,0
+50,143916.0,Electronics,0
+32,63978.0,Electronics,0
+62,75096.0,Home Appliances,0
+38,43284.0,Clothing,0
+18,49158.0,Clothing,0
+53,47740.0,Electronics,0
+34,22243.0,Home Appliances,0
+61,37131.0,Clothing,0
+66,147394.0,Home Appliances,0
+33,134630.0,Home Appliances,0
+53,132557.0,Clothing,0
+55,37997.0,Clothing,0
+62,103697.0,Clothing,1
+63,45772.0,Electronics,0
+29,61368.0,Electronics,0
+69,64610.0,Home Appliances,0
+41,111594.0,Clothing,0
+26,69923.0,Home Appliances,0
+24,143961.0,Home Appliances,0
+54,143250.0,Home Appliances,0
+19,31698.0,Home Appliances,0
+57,144344.0,Clothing,0
+46,116707.0,Clothing,0
+29,90153.0,Clothing,0
+29,,Clothing,0
+45,126777.0,Electronics,0
+30,110594.0,Clothing,0
+60,136894.0,Clothing,1
+50,90202.0,Home Appliances,0
+27,146801.0,Home Appliances,1
+42,50916.0,Clothing,0
+67,100146.0,Electronics,0
+67,38047.0,Electronics,0
+54,114223.0,Home Appliances,0
+52,123835.0,Clothing,1
+34,83116.0,Clothing,0
+44,84315.0,Home Appliances,0
+36,128886.0,Home Appliances,1
+65,24359.0,Electronics,0
+21,,Home Appliances,0
+39,24395.0,Clothing,0
+53,143183.0,Clothing,1
+57,128559.0,nan,0
+65,31085.0,Home Appliances,0
+50,89385.0,Home Appliances,0
+41,88795.0,nan,0
+21,57823.0,Home Appliances,0
+27,62595.0,Electronics,1
+58,123393.0,Home Appliances,0
+44,75059.0,nan,0
+18,149288.0,nan,0
+49,122653.0,Home Appliances,0
+35,23338.0,Electronics,1
+44,95992.0,Electronics,0
+27,44278.0,Electronics,0
+21,134980.0,Clothing,0
+58,93339.0,Clothing,0
+43,76901.0,Home Appliances,0
+34,148259.0,Home Appliances,0
+51,69757.0,Clothing,0
+34,147780.0,Home Appliances,0
+66,113103.0,Home Appliances,1
+28,122261.0,nan,0
+41,,Home Appliances,0
+35,32941.0,Electronics,0
+43,131910.0,Electronics,0
+41,,Home Appliances,0
+33,45838.0,Clothing,0
+60,138530.0,Home Appliances,0
+46,70070.0,Electronics,0
+18,39659.0,Clothing,1
+50,91643.0,Home Appliances,0
+59,51688.0,Electronics,0
+44,87143.0,Clothing,0
+55,53717.0,Home Appliances,0
+29,27043.0,Electronics,0
+41,121440.0,Clothing,0
+33,72587.0,Home Appliances,0
+59,20319.0,Clothing,1
+27,84796.0,Electronics,0
+46,64291.0,Electronics,0
+44,104179.0,Clothing,0
+28,77560.0,Home Appliances,0
+69,60935.0,Electronics,0
+41,108707.0,Electronics,0
+31,67042.0,Home Appliances,0
+31,99810.0,Clothing,0
+42,98933.0,Clothing,1
+23,44918.0,Home Appliances,0
+18,143132.0,nan,1
+69,102399.0,nan,0
+32,,Home Appliances,0
+22,99599.0,Electronics,0
+31,27549.0,Home Appliances,0
+45,94095.0,Clothing,0
+46,72201.0,Electronics,0
+48,82963.0,nan,0
+43,84559.0,Home Appliances,0
+43,99703.0,Electronics,1
+45,52470.0,Electronics,0
+20,48924.0,Electronics,0
+68,123424.0,Electronics,0
+46,109144.0,Home Appliances,0
+38,30956.0,Home Appliances,0
+69,76387.0,Home Appliances,0
+62,34901.0,Clothing,0
+20,78097.0,Home Appliances,0
+32,25594.0,Electronics,0
+49,107052.0,Electronics,0
+69,137556.0,Home Appliances,1
+57,80481.0,Clothing,0
+36,36508.0,Electronics,0
+48,81687.0,Home Appliances,0
+52,,Electronics,0
+68,141412.0,Electronics,0
+67,128953.0,Electronics,0
+20,55725.0,Home Appliances,0
+30,104846.0,Clothing,0
+20,116205.0,Home Appliances,1
+36,63563.0,Electronics,0
+29,77874.0,Clothing,0
+69,131177.0,Clothing,0
+44,91694.0,Clothing,0
+61,128675.0,Electronics,0
+58,86951.0,Electronics,0
+68,35739.0,Electronics,1
+46,82598.0,Electronics,0
+54,133461.0,Home Appliances,1
+27,115812.0,Clothing,0
+44,90210.0,Clothing,0
+41,95720.0,Clothing,0
+69,145648.0,Electronics,0
+48,24646.0,Electronics,1
+42,72576.0,Home Appliances,0
+39,137958.0,Clothing,0
+50,35957.0,Clothing,0
+59,,Electronics,0
+48,84471.0,Electronics,0
+38,137718.0,Electronics,0
+24,56007.0,Home Appliances,0
+52,130371.0,Clothing,0
+51,106889.0,Home Appliances,1
+43,94280.0,Electronics,0
+35,30523.0,Electronics,0
+69,54512.0,Home Appliances,0
+35,21626.0,Home Appliances,0
+32,131588.0,nan,0
+24,85020.0,Clothing,0
+33,145733.0,Home Appliances,0
+66,129668.0,Clothing,0
+47,46325.0,Clothing,0
+61,117035.0,Electronics,0
+67,42658.0,Clothing,1
+40,117819.0,nan,1
+57,57389.0,Clothing,0
+55,,Home Appliances,0
+66,98678.0,Home Appliances,0
+69,133535.0,Clothing,0
+56,55690.0,Clothing,1
+60,103402.0,Clothing,0
+69,110201.0,Home Appliances,0
+19,126605.0,Electronics,1
+27,146801.0,Home Appliances,1
+23,37198.0,Home Appliances,0
+69,42488.0,Home Appliances,0
+36,75609.0,Electronics,1
+33,125432.0,Clothing,0
+65,111253.0,Electronics,0
+62,23060.0,Home Appliances,0
+32,67498.0,Clothing,0
+31,104242.0,Clothing,0
+28,96579.0,Home Appliances,0
+21,94965.0,Electronics,0
+57,38452.0,Home Appliances,0
+38,45230.0,Home Appliances,0
+21,126191.0,Electronics,0
+47,20015.0,Clothing,0
+44,20246.0,Home Appliances,0
+54,110321.0,Electronics,0
+64,56373.0,Electronics,0
+49,28272.0,Clothing,0
+21,121350.0,nan,0
+59,51403.0,Home Appliances,0
+36,84325.0,Clothing,1
+18,135228.0,Clothing,0
+43,29304.0,Home Appliances,0
+21,57570.0,Electronics,0
+52,102094.0,Home Appliances,0
+38,87546.0,Clothing,0
+32,127697.0,Electronics,0
+51,104422.0,Home Appliances,0
+48,52596.0,Clothing,0
+48,,Clothing,0
+54,39171.0,Home Appliances,1
+34,117356.0,Electronics,0
+57,110045.0,Electronics,1
+18,48016.0,Electronics,0
+33,39798.0,Electronics,0
+59,47579.0,Clothing,0
+50,117423.0,Electronics,0
+37,147819.0,Clothing,0
+32,128352.0,Home Appliances,0
+55,145081.0,Clothing,0
+33,142124.0,Home Appliances,0
+19,138000.0,nan,0
+63,128227.0,Home Appliances,0
+24,49802.0,Electronics,0
+38,47453.0,Electronics,0
+62,,Home Appliances,1
+53,71559.0,Clothing,0
+33,54129.0,Home Appliances,0
+62,140623.0,Clothing,0
+25,46598.0,Clothing,0
+38,85592.0,Electronics,0
+29,70304.0,Home Appliances,0
+52,51746.0,Home Appliances,0
+28,146883.0,Clothing,0
+20,68487.0,Electronics,1
+34,60391.0,Electronics,0
+45,62443.0,Electronics,0
+23,56491.0,Clothing,0
+38,97395.0,Electronics,0
+23,31278.0,Home Appliances,0
+53,82636.0,Clothing,1
+44,37942.0,Electronics,0
+44,115525.0,Clothing,0
+51,26765.0,Clothing,0
+60,71083.0,Electronics,0
+25,124710.0,Home Appliances,1
+18,131546.0,Clothing,0
+55,123569.0,Electronics,0
+54,68704.0,Clothing,0
+64,133528.0,Home Appliances,0
+58,105818.0,Home Appliances,0
+39,,Clothing,0
+60,77410.0,Clothing,0
+40,27145.0,Clothing,0
+24,146574.0,Home Appliances,0
+66,98692.0,Home Appliances,0
+52,,Home Appliances,0
+26,96439.0,Home Appliances,0
+31,111393.0,Electronics,0
+43,115365.0,Clothing,0
+56,107043.0,Home Appliances,0
+24,30204.0,Home Appliances,0
+30,114819.0,nan,0
+48,,Electronics,0
+45,20597.0,Home Appliances,1
+43,71571.0,Home Appliances,0
+60,37333.0,Clothing,0
+29,119546.0,Home Appliances,0
+48,144444.0,Home Appliances,0
+40,87309.0,Electronics,0
+54,133559.0,Home Appliances,0
+25,124710.0,Home Appliances,1
+63,,Home Appliances,1
+63,35748.0,Home Appliances,0
+54,133461.0,Home Appliances,1
+60,69648.0,Clothing,0
+29,27919.0,Clothing,0
+43,135447.0,Clothing,0
+40,,nan,1
+36,77500.0,Home Appliances,0
+24,106478.0,Clothing,0
+31,54928.0,Clothing,0
+66,32207.0,Electronics,0
+60,120874.0,Clothing,0
+68,70621.0,Electronics,0
+65,34690.0,nan,0
+43,29228.0,Clothing,0
+46,92467.0,Clothing,0
+57,,Electronics,0
+62,87594.0,Home Appliances,0
+29,56292.0,nan,0
+52,91880.0,Home Appliances,0
+51,101015.0,Electronics,1
+22,47399.0,Home Appliances,0
+40,42725.0,Electronics,0
+65,94504.0,Electronics,0
+30,41300.0,Electronics,0
+48,94157.0,Clothing,0
+60,32974.0,Electronics,0
+42,74399.0,Home Appliances,0
+34,75547.0,Electronics,0
+30,65320.0,Clothing,0
+69,,Electronics,0
+21,109532.0,Clothing,0
+50,111901.0,Clothing,0
+69,24694.0,Clothing,0
+62,108993.0,Electronics,0
+27,22921.0,Electronics,0
+58,,Electronics,0
+44,93150.0,Clothing,0
+60,141327.0,Home Appliances,0
+42,149379.0,Electronics,0
+33,118841.0,Clothing,0
+58,85408.0,Clothing,0
+69,137556.0,Home Appliances,1
+48,22526.0,Clothing,0
+52,70870.0,Home Appliances,0
+69,70643.0,Home Appliances,0
+59,140844.0,Home Appliances,0
+57,110045.0,Electronics,1
+68,93356.0,Home Appliances,0
+38,133618.0,Clothing,0
+47,82613.0,Clothing,0
+65,134515.0,Home Appliances,0
+35,84648.0,Home Appliances,0
+52,,Electronics,0
+26,70945.0,Electronics,0
+67,82157.0,Electronics,0
+38,138048.0,Electronics,0
+43,137973.0,Electronics,0
+35,63625.0,nan,0
+41,69396.0,Clothing,0
+24,,Clothing,0
+35,116491.0,Electronics,0
+61,82821.0,Electronics,0
+53,26764.0,Electronics,0
+43,60985.0,Home Appliances,0
+20,107276.0,Home Appliances,0
+25,143649.0,Electronics,0
+48,49265.0,Home Appliances,0
+62,48804.0,Clothing,0
+22,142389.0,Clothing,0
+54,37533.0,Electronics,0
+29,52177.0,Home Appliances,0
+33,118869.0,Home Appliances,0
+40,37300.0,nan,0
+67,119065.0,Clothing,0
+24,149101.0,Home Appliances,0
+26,68043.0,nan,0
+65,35619.0,Electronics,0
+31,118613.0,Home Appliances,0
+45,53717.0,nan,0
+29,144231.0,Home Appliances,0
+33,44474.0,Clothing,0
+53,128638.0,Electronics,0
+27,86178.0,Home Appliances,0
+34,28463.0,Clothing,0
+25,103721.0,Home Appliances,0
+34,20255.0,Home Appliances,1
+36,95706.0,Home Appliances,0
+18,143132.0,nan,1
+39,122260.0,Home Appliances,0
+36,77771.0,Clothing,0
+35,48490.0,Electronics,0
+39,,nan,0
+21,35701.0,Home Appliances,0
+44,70100.0,nan,0
+39,60308.0,Electronics,0
+66,,Clothing,0
+65,76440.0,Electronics,0
+68,113645.0,Electronics,0
+32,73813.0,Home Appliances,0
+23,88344.0,Home Appliances,0
+54,43940.0,nan,0
+22,118228.0,Clothing,0
+22,123068.0,Home Appliances,0
+68,30360.0,Electronics,0
+33,90412.0,Electronics,0
+37,128611.0,Clothing,0
+48,50279.0,Clothing,0
+68,93802.0,Home Appliances,0
+48,110724.0,Clothing,0
+26,68282.0,Electronics,0
+24,21999.0,Electronics,1
+46,127145.0,Clothing,0
+59,65987.0,Home Appliances,1
+32,23809.0,Electronics,0
+28,107687.0,Home Appliances,0
+58,52009.0,Electronics,0
+21,47195.0,nan,0
+31,,Clothing,0
+43,132789.0,Clothing,0
+29,49714.0,Home Appliances,0
+59,45765.0,Electronics,0
+34,149686.0,Clothing,0
+57,110045.0,Electronics,1
+40,56996.0,Clothing,0
+53,24030.0,Electronics,0
+62,132004.0,Electronics,0
+67,118447.0,Electronics,0
+44,30547.0,Clothing,0
+66,48768.0,Electronics,0
+27,78548.0,Home Appliances,0
+52,97007.0,Clothing,1
+54,81742.0,Clothing,0
+38,70062.0,Clothing,0
+28,36705.0,Clothing,0
+63,146250.0,Home Appliances,0
+33,22366.0,Electronics,0
+42,83965.0,nan,0
+69,44102.0,Electronics,0
+43,74607.0,Electronics,0
+29,107081.0,Electronics,1
+27,110332.0,Electronics,0
+41,94387.0,Home Appliances,0
+50,143699.0,Electronics,0
+49,69855.0,Clothing,0
+68,86673.0,Electronics,0
+25,81009.0,Home Appliances,0
+35,47467.0,Home Appliances,0
+48,90729.0,Clothing,0
+41,92746.0,Clothing,0
+36,60731.0,Clothing,0
+68,52747.0,Clothing,0
+38,94312.0,Home Appliances,0
+30,85263.0,Home Appliances,0
+27,,Clothing,0
+65,100402.0,Home Appliances,0
+47,132894.0,Electronics,0
+26,75896.0,Home Appliances,0
+18,117662.0,Clothing,1
+42,127422.0,Home Appliances,0
+69,38932.0,Electronics,0
+69,140454.0,nan,0
+48,,Electronics,0
+36,42191.0,Home Appliances,0
+18,67857.0,Home Appliances,0
+51,,Clothing,1
+58,85355.0,Clothing,0
+60,95133.0,Home Appliances,1
+19,23093.0,Electronics,0
+61,47898.0,Clothing,0
+39,145170.0,Clothing,0
+59,,Home Appliances,0
+30,72800.0,Electronics,0
+18,141692.0,Electronics,0
+27,119415.0,Clothing,0
+69,46398.0,Home Appliances,0
+33,65592.0,Electronics,0
+18,143746.0,Home Appliances,0
+40,34551.0,Home Appliances,0
+24,128556.0,Home Appliances,0
+69,108989.0,Home Appliances,0
+29,106890.0,Clothing,0
+51,58665.0,Clothing,0
+44,43259.0,Electronics,0
+49,64415.0,Electronics,0
+46,102208.0,Home Appliances,0
+35,59107.0,Home Appliances,0
+55,85250.0,Clothing,0
+21,,Electronics,0
+59,106879.0,Clothing,0
+65,143737.0,Electronics,0
+35,23216.0,Clothing,0
+36,97848.0,Electronics,0
+21,66996.0,Electronics,0
+20,133141.0,Electronics,0
+52,25695.0,Clothing,0
+32,55399.0,Clothing,0
+39,33429.0,nan,0
+29,32521.0,Home Appliances,0
+56,68807.0,Home Appliances,0
+40,21049.0,Home Appliances,0
+32,56776.0,Clothing,0
+50,117349.0,nan,0
+59,106120.0,nan,0
+44,66022.0,Clothing,0
+50,45714.0,Clothing,0
+36,83291.0,Electronics,0
+63,97830.0,Home Appliances,0
+36,102015.0,Electronics,0
+45,22016.0,Clothing,0
+46,148101.0,nan,0
+48,70665.0,Electronics,0
+42,124987.0,Home Appliances,0
+26,109779.0,Clothing,0
+50,79875.0,Home Appliances,0
+68,131889.0,Clothing,0
+33,47690.0,Clothing,0
+34,108110.0,Clothing,0
